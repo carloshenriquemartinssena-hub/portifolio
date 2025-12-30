@@ -172,12 +172,47 @@ color: red;}
  justify-content:center;   }
 
  #frame2{ 
- 	background-image: url(cachorroback.png); background-size: cover; background-repeat: no-repeat;
- 	background-position: 20% -75px;
+	display: block;
+ background: black; 
+ color: white;
  min-height: 100vh;
-	background-color: ;
+
 }
 
+
+.titulo1 { 
+	font-family: "inter", sans-serif;
+	position: relative;
+	text-align: center;
+	 top: 35vh;
+
+	
+}
+
+#divpai{
+	font-family: "arial", sans-serif;
+	font-weight: 900;
+	position: relative;
+	gap: 55px;
+	top: 35vh;
+display: flex;
+grid-template-columns: repeat( auto-fit, minmax (250px, 1fr));
+align-items: center;
+justify-content: center;
+padding-top: 20px;
+
+}
+
+.card1 { background-color: #710000; padding: 80px 100px; border-radius: 33px;
+	border: 2px solid white; 
+	
+}
+.card2 { background-color: #710000; padding: 80px 100px;; border-radius: 33px;
+	border: 2px solid white;
+}
+.card3 { background-color: #710000; padding: 80px 100px; border-radius: 33px;
+	border: 2px solid white;
+}
 .wave { 
 color:white;
 font-family: "Harmattan", sans-serif;
