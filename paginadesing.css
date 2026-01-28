@@ -67,7 +67,7 @@ width: 50%;
     display: flex;
     justify-content: end;
     top: -52vh;
-    right: 18vw; 
+    right: 15vw; 
 
 }
 
@@ -110,10 +110,10 @@ top: -15vh;
 
 .bege { 
     position: absolute;
-   top: 158vh;
+   top: 175vh;
    border-radius: 35px;
     background-color: #D1B38D;
-    min-height: 400px;
+    min-height: 300px;
     width: 15%;
  
     display: block;
@@ -133,15 +133,15 @@ top: -15vh;
     font-family: 'arial', sans-serif;
     color: white;
     background-color: #525C67;
-    padding: 260px 15px;
+    padding: 146px 15px;
     position: relative;
-    top: -44.45vh;
+    top: -50vh;
 }
 
 .btposicao { 
     padding: 15px 300px;
     top: -40vh;
-    left: 30vw;
+    left: 25vw;
     justify-content: center;
     align-items: center;
     display: flex;
